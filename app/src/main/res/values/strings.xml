@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarea2 - Manuel Vargas</string>
+    <string name="personaje_image">Personaje Image</string>
+    <string name="menu_acerca_de">Acerca de...</string>
+    <string name="acerca_de_message">Aplicación desarrollada por Manuel Vargas. Versión 1.0.</string>
+    <string name="cerrar">Cerrar.</string>
+    <string name="detalles_cargados">Detalles cargados para </string>
+    <string name="error_detalles_cargados">Error al cargar detalles del personaje</string>
+    <string name="seleccion_personaje">Se ha seleccionado el personaje</string>
+</resources>
